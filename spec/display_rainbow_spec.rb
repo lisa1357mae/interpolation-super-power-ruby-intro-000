@@ -1,4 +1,16 @@
-describe '#display_rainbow' do
+
+
+
+
+
+
+
+
+
+
+
+def display_rainbow (color)
+  puts ": #{{color[R], }}"
   it 'accepts one argument' do
     colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
